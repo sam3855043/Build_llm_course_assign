@@ -1,4 +1,4 @@
-Expert Knowledge Worker
+# Expert Knowledge Worker
 A question answering agent that is an expert knowledge worker
 To be used by employees of Insurellm, an Insurance Tech company
 The agent needs to be accurate and the solution should be low cost.
